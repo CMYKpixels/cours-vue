@@ -77,5 +77,6 @@ Fichier de template : monTexte.vue
 * https://vuejs.org/guide/
 * https://www.grafikart.fr/tutoriels/vuejs/datepicker-754
 
-## Autres
-* Pourquoi utiliser du CSS modulaire ? http://putaindecode.io/fr/articles/css/stop-css/
+## Pourquoi utiliser du CSS modulaire ? 
+* [Pourquoi j'ai arrêté d'utiliser CSS](http://putaindecode.io/fr/articles/css/stop-css/) — putain de code
+* [Vers les CSS Modules](http://putaindecode.io/fr/articles/css/modules/) — putain de code
